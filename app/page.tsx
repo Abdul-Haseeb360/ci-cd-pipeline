@@ -7,6 +7,7 @@ export default function Home() {
       </h1>
       <p className="mt-4 text-gray-600 dark:text-gray-400">
         This is a simple starter template to see how the CI/CD pipeline works!.
+      </p>
     </div>
   );
 }
