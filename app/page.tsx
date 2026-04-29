@@ -1,4 +1,5 @@
 import Card from "./components/Card";
+import PasswordChecker from "./components/PasswordChecker";
 
 export default function Home() {
   return (
@@ -9,7 +10,8 @@ export default function Home() {
       <p className="mt-4 text-gray-600 dark:text-gray-400">
         This is a simple starter template to see how the CI/CD pipeline works!.
       </p>
-      <Card/>
+      <Card />
+      <PasswordChecker />
     </div>
   );
 }
