@@ -10,7 +10,7 @@ function Card() {
         magni totam sint saepe perspiciatis, architecto dignissimos omnis, ipsum
         quaerat numquam natus alias.
       </p>
-      <button className="mt-4 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded cursor-pointer">
+      <button className="mt-4 bg-black hover:bg-gray-800 text-white font-bold py-2 px-4 rounded cursor-pointer">
         Click Me
       </button>
     </div>
